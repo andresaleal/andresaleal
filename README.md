@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @andresaleal,
 - 👀 I’m interested in connect with top talents.
-- 🌱 I’m currently working at Sword Health, based in Porto - Portugal. We are a start-up in health care domain.
+- 🌱 I’m currently working at SWORD Health, based in Porto - Portugal. We are a start-up in health care domain.
 - 💞️ I’m looking to collaborate on bringing successful opportunities to IT community.
 - 📫 How to reach in andresa@swordhealth.com
+Check our open positions here: https://jobs.lever.co/swordhealth
 
 <!---
 andresaleal/andresaleal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
